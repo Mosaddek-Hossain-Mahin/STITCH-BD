@@ -111,12 +111,18 @@ export default function LoginPage() {
             </Button>
           </form>
 
+         
+
           <div className="text-center text-xs text-stone-500">
-            Don't have an account?{' '}
-            <Link href="/auth/register" className="font-semibold text-stone-900 hover:underline">
-              Create account
-            </Link>
-          </div>
+-            Don't have an account?{' '}
++            Don&apos;t have an account?{' '}
+             <Link href="/auth/register" className="font-semibold text-stone-900 hover:underline">
+               Create account
+             </Link>
+           </div>
+
+
+
 
           {/* Quick Demo Access Switchers */}
           <div className="pt-4 border-t border-stone-100 space-y-2.5">
