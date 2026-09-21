@@ -1,0 +1,8 @@
+{
+  "name": "STITCH-BD-app",
+  "description": "Production-grade full-stack e-commerce storefront and comprehensive administrative back-office system with real-time inventory, orders, customer management, and Stripe checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
